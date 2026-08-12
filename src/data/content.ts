@@ -190,7 +190,7 @@ export const testimonials: Testimonial[] = [
     isPlaceholder: false,
   },
   {
-    name: "Himanshu Narayan",
+    name: "Himanshu Aryann",
     profession: "IT Professional",
     review:
       "I was looking for a property in the Batala area and Khehhra Group made the process much easier. The team was responsive, professional and helped me understand the available options without making the process complicated. Overall, it was a straightforward and positive experience.",
